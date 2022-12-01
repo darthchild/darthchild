@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darthchild
-- 👀 I’m interested in Python, Java & C#
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in C, Java and Python
+- 🌱 I’m currently learning Android 
 - 💞️ I’m looking to collaborate on ...
 
 
