@@ -30,10 +30,10 @@ You can find me here :
 <div>
 
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-[![C Badge](https://img.shields.io/badge/C-3681e3?style=for-the-badge&logo=c&logoColor=white)](#)
-[![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#)
 [![Android Badge](https://img.shields.io/badge/Android-A4C639?&style=for-the-badge&logo=Android&logoColor=white)](#) 
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-239120?&style=for-the-badge&logo=kotlin&logoColor=white)](#) 
+[![C Badge](https://img.shields.io/badge/C-3681e3?style=for-the-badge&logo=c&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#)
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) 
 [![Java Badge](https://img.shields.io/badge/Java-ad0a0a?&style=for-the-badge&logo=java&logoColor=white)](#)
