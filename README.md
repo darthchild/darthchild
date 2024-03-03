@@ -2,25 +2,24 @@
  
 <h1 >Hi, I'm Ekagra Nigam </h1>
 
-<h3 style="color:orange;" > About Me 👨‍🦰</h3>  
+<h3 style="color:orange;" > About Me 🙍🏻‍♂️</h3>  
  <div>
 👨🏻‍🎓 3rd year B.Tech Student @ Vellore Institute of Technology, Chennai
+<br>🌐 Portfolio:  <a style="text-decoration: underline;" href="https://ekagra.onrender.com"><strong>ekagra.onrender.com</strong></a>
 <br>🤖 Android Dev Enthusiast
 <br>⚒️ Focusing on creating innovating projects & contributing to Open Source
 <br>👨‍💻 Learning Android, Machine Learning 
 </div>
 
-<hr>
-
 <!-- Social Links -->
-You can find me here :
-<p align="left">
-<a href="https://ekagra.onrender.com/" target="_blank"> <img title="Website" src="https://img.shields.io/badge/Portfolio-%23D00000.svg?style=for-the-badge&logo=headspace&logoColor=white"/></a>  
-<a href="https://www.linkedin.com/in/ekagra-nigam-86a573234/" target="_blank"> <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:connectekagranigam@gmail.com" target="_blank"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/darthchild/" target="_blank"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="http://ekagranigam.wordpress.com/" target="_blank"> <img title="BLOG" src="https://img.shields.io/badge/Blog-%23D00000.svg?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-<!-- <a href="https://www.hackerrank.com/ekagranigam"> <img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> -->
+<h2>Connect with me:</h2>
+<p>
+<a href="https://linkedin.com/in/ekagra-nigam-86a573234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekagra-nigam-86a573234" height="30" width="40" /></a>
+<a href="https://instagram.com/darthchild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darthchild" height="30" width="40" /></a>
+<a href="https://twitter.com/darthchild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darthchild" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ekagranigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ekagranigam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/darthchild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darthchild" height="30" width="40" /></a>
+</p>
 
 
 
