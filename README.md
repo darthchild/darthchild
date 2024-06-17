@@ -4,7 +4,7 @@
 
 <h3 style="color:orange;" > About Me 🙍🏻‍♂️</h3>  
  <div>
-👨🏻‍🎓 3rd year B.Tech Student @ Vellore Institute of Technology, Chennai
+👨🏻‍🎓 Final year B.Tech Student @ Vellore Institute of Technology, Chennai
 <br>🌐 Portfolio:  <a style="text-decoration: underline;" href="https://ekagra.onrender.com"><strong>ekagra.onrender.com</strong></a>
 <br>🤖 Android Dev Enthusiast
 <br>⚒️ Focusing on creating innovating projects & contributing to Open Source
@@ -23,7 +23,7 @@
 
 
 
-<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px> </h2> 
+<h2> Tech Stack </h2> 
 
 <!-- Mostly Work With section -->
 <h3 style="color:orange;margin-bottom: 15px;" >Mostly work with🔨</h3> 
