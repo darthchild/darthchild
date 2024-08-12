@@ -14,7 +14,7 @@
 <h2>Connect with me! </h2>
 <p>
 <a href="https://linkedin.com/in/ekagra-nigam-86a573234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekagra-nigam-86a573234" height="30" width="40" /></a>
-<a href="https://instagram.com/darthchild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darthchild" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ekagraa_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darthchild" height="30" width="40" /></a>
 <a href="https://twitter.com/darthchild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darthchild" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ekagranigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ekagranigam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/darthchild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darthchild" height="30" width="40" /></a>
