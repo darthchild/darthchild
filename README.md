@@ -6,9 +6,8 @@
  <div>
 👨🏻‍🎓 Final year B.Tech Student @ Vellore Institute of Technology, Chennai
 <br>🌐 Portfolio:  <a style="text-decoration: underline;" href="https://ekagra.onrender.com"><strong>ekagra.onrender.com</strong></a>
-<br>🤖 Android Dev Enthusiast
+<br>🤖 Backend Dev Enthusiast
 <br>⚒️ Focusing on creating innovating projects & contributing to Open Source
-<br>👨‍💻 Learning Android, Machine Learning 
 </div>
 <!-- Social Links -->
 <h2>Connect with me! </h2>
